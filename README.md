@@ -1,5 +1,5 @@
 
-## The problem of generating PowerSet
+# The problem of generating PowerSet
 
 In this project, we explore three different algorithms, each representing a stage in the evolution of my approach to generating the Power Set. To understand these algorithms better, let's first delve into some fundamental mathematics concepts.
 
@@ -39,7 +39,7 @@ In this project, we explore three distinct algorithms, each building upon the la
 
 Each algorithm serves as a step in the journey toward a more efficient and effective solution for generating the Power Set, showcasing the progression in algorithmic thinking and optimization techniques.
 
-##The Challenge with the First Algorithm
+## The Challenge with the First Algorithm
 
 1.  **Single-Threaded Approach**:
 
