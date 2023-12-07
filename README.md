@@ -1,4 +1,6 @@
 
+## The problem of generating PowerSet
+
 In this project, we explore three different algorithms, each representing a stage in the evolution of my approach to generating the Power Set. To understand these algorithms better, let's first delve into some fundamental mathematics concepts.
 
 **
